@@ -2,3 +2,4 @@ __pycache__
 venv
 .idea
 key.json
+real_time_app/deploy_cf.sh
